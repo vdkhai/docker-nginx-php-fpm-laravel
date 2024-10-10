@@ -2,7 +2,7 @@
 
 Run:
 ```
-docker compose up -d nginx-server
+docker compose up -d nginx-server (start nginx-server, php-fpm and mysql)
 docker compose down
 ```
 
